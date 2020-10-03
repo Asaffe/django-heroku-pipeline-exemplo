@@ -1,0 +1,1 @@
+web: gunicorn djHerokuPipeline.wsgi --log-file -
