@@ -1,0 +1,15 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+*.*~
+.env
+
+#db.sqlite3
+
+# If you are using PyCharm #
+.idea
+
+*.iws /out/
+
